@@ -1,38 +1,493 @@
-.App {
+.component1 {
+  padding: 0.04px 998.18px 0 1.76px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame7 {
+  width: calc(61.05% - 109px);
+  height: calc(14.43% - 375px);
+  background-color: rgba(22, 54, 145, 1);
+  margin-bottom: 354px;
+  margin-left: 84.18px;
+  padding: 34.03px 52.82px 340.97px 56.18px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.whyChriscoCentral {
+  width: 551px;
+  font-family: "Mukta Malar";
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 100px;
+  color: rgba(255, 255, 255, 1);
   text-align: center;
+  margin-bottom: 13px;
+  margin-left: 0.11px;
+  letter-spacing: 4.8px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.theCentralChurchIsACongregationUnd {
+  height: 210px;
+  width: 772px;
+  font-family: "Mukta Malar";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 39px;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.relativeWrapperOne {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: -0.21px;
+  top: 410px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.image32 {
+  height: 582px;
+  flex: 1;
+  position: absolute;
+  right: -531.25px;
+  top: -375.56px;
+  object-fit: cover;
+}
+.flexWrapperOne {
+  padding: 0.03px 654.7px 447.97px 56.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.theChurchAimsAtMeetingTheNeedsOf {
+  max-width: 732px;
+  font-family: "Mukta Malar";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 39px;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 68px;
+  letter-spacing: -0.2px;
+}
+.frame19 {
+  margin-left: 5.93px;
+  padding: 5.01px 21.99px 4.99px 22.01px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 5px solid rgba(255, 255, 255, 1);
+}
+.exploreMore {
+  font-family: "Mukta Malar";
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  letter-spacing: 2.4px;
+}
+.frame13 {
+  height: calc(7.21% - 51.67px);
+  margin-bottom: 355px;
+  padding: 26.04px 71.99px 25.63px 84.01px;
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+}
+.missionTwo {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 46.02px 29.24px 58.9px 40.03px;
+  box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.25) inset,
+    0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: flex-start;
+}
+.mission {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.ourMission {
+  height: 41.46px;
+  width: 171px;
+  font-family: "Mukta Malar";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  align-items: center;
+  margin-bottom: 5.51px;
+  margin-left: 0.46px;
+}
+.toEquipBelieversThroughPrayerTeach {
+  height: 145.11px;
+  width: 572.73px;
+  font-family: "Mukta Malar";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  align-items: center;
+}
+.vision {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 46.02px 91.17px 68.98px 40.04px;
+  box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.25) inset,
+    0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: flex-start;
+}
+.ourVision {
+  height: 45.42px;
+  width: 150px;
+  font-family: "Mukta Malar";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  align-items: center;
+  margin-bottom: 17.99px;
+  margin-left: 0.07px;
+}
+.toBeACongregationOfBelieversDiscip {
+  height: 118.59px;
+  width: 513.79px;
+  font-family: "Mukta Malar";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  align-items: center;
+}
+.relativeWrapperTwo {
+  width: 99.79%;
+  height: 16.1%;
+  margin-bottom: 1494.63px;
+  margin-left: 0.78px;
+  position: relative;
+}
+.word {
+  width: calc(100% - 40px);
+  height: calc(100% - 156.52px);
+  padding: 123.03px 19.98px 33.49px 20.02px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.flexWrapperTwo {
+  margin-bottom: 50.48px;
+  padding: 0 0 0 46.03px;
+  display: flex;
+  align-items: flex-start;
+}
+.image24 {
+  width: 560px;
+  height: 567px;
+  margin-right: 67.06px;
+}
+.group19 {
+  margin-top: 67.33px;
+  padding: 0.1px 0 0;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.theWord {
+  font-family: "Mukta Malar";
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 40px;
+  color: rgba(22, 54, 145, 1);
+  text-align: center;
+  margin-bottom: 90.9px;
+  letter-spacing: 9.6px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.loremIpsumDolorSitAmetConsectetur {
+  height: 240px;
+  width: 682px;
+  font-family: "Mukta Malar";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 53px;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+}
+.line1Stroke {
+  width: 1400px;
+  height: 5px;
+  background-color: rgba(221, 33, 46, 1);
+}
+.wordTwo {
+  width: calc(100% - 40px);
+  height: calc(100% - 139.9px);
+  padding: 106.41px 19.98px 33.49px 20.02px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  right: -1001px;
+  top: 0;
+}
+.flexWrapperThree {
+  margin-bottom: 67.1px;
+  padding: 0 0 0 18.08px;
+  display: flex;
+  align-items: flex-start;
+}
+.group19Two {
+  margin-top: 70.61px;
+  margin-right: 71.95px;
+  padding: 0.07px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ourFaith {
+  font-family: "Mukta Malar";
+  font-size: 64px;
+  font-weight: 800;
+  line-height: 100px;
+  color: rgba(22, 54, 145, 1);
+  text-align: center;
+  margin-bottom: 69.93px;
+  letter-spacing: 12.8px;
+}
+.atChriscoCentralChurchWeOfferAVa {
+  height: 240px;
+  width: 682px;
+  font-family: "Mukta Malar";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 40px;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+}
+.image53 {
+  width: 560px;
+  height: 567px;
+}
+.aboutUs {
+  width: calc(99.79% - 81px);
+  height: calc(16.72% - 276px);
+  background-color: rgba(22, 54, 145, 1);
+  margin-left: 0.77px;
+  padding: 138.02px 50.93px 137.98px 30.07px;
+  display: flex;
+  align-items: center;
+}
+.frame1 {
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  border-radius: 100px 0px;
+  padding: 64px 616.98px 35px 0;
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.group1 {
+  background-color: rgba(255, 255, 255, 1);
+  margin-left: -9.98px;
+  padding: 9.02px 106.98px 35.97px 33.14px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.image9 {
+  width: 16px;
+  height: 231px;
+  background-color: rgba(221, 33, 46, 1);
+  border-radius: 200px;
+  position: absolute;
+  left: 33px;
+  bottom: -0.02px;
+}
+.flexWrapperFour {
+  margin-bottom: 22.01px;
+  display: flex;
+  align-items: flex-start;
+}
+.photo {
+  width: 165px;
+  height: 155px;
+  margin-right: 55.02px;
+  border-radius: 8px;
+}
+.ourChurch {
+  max-width: 215px;
+  font-family: "Mukta Malar";
+  font-size: 36px;
+  font-weight: 800;
+  line-height: normal;
+  color: rgba(22, 54, 145, 1);
+  text-align: center;
+  margin-top: 52.11px;
+}
+.loremIpsumIsSimplyDummyTextOfThe {
+  height: 210px;
+  width: 594px;
+  font-family: "Mukta Malar";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 37px;
+  color: rgba(102, 101, 101, 1);
+  display: flex;
+  text-align: center;
+  margin-left: 15.88px;
+}
+.group2 {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 9.05px 42.99px 23.95px 91.14px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  right: -25.01px;
+  top: 73.33px;
+}
+.image9Two {
+  width: 16px;
+  height: 231px;
+  background-color: rgba(221, 33, 46, 1);
+  border-radius: 200px;
+  position: absolute;
+  left: 83px;
+  bottom: -0.04px;
+}
+.flexWrapperFive {
+  margin-bottom: 26px;
+  display: flex;
+  align-items: flex-start;
+}
+.photoTwo {
+  width: 165px;
+  height: 155px;
+  margin-right: 50.02px;
+  border-radius: 8px;
+}
+.ourPurpose {
+  max-width: 232px;
+  font-family: "Mukta Malar";
+  font-size: 36px;
+  font-weight: 800;
+  line-height: normal;
+  color: rgba(22, 54, 145, 1);
+  text-align: center;
+  margin-top: 52.11px;
+}
+.loremIpsumIsSimplyDummyTextOfTheTwo {
+  font-family: "Mukta Malar";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 37px;
+  color: rgba(102, 101, 101, 1);
+  align-self: stretch;
+  display: flex;
+  text-align: center;
+  margin-left: 13.87px;
+}
+.relativeWrapperThree {
+  width: 58.95%;
+  height: 16.26%;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 1003.54px;
+  top: 2889.04px;
+}
+.baptism {
+  width: calc(100% - 110.92px);
+  height: calc(90.6% - 54px);
+  background-color: rgba(255, 255, 255, 1);
+  padding: 27.03px 45.91px 26.97px 65.01px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: -1000.96px;
+  top: 37px;
+}
+.image26 {
+  width: 655px;
+  height: 659px;
+  margin-right: 65.08px;
+}
+.group19Three {
+  padding: 0.03px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.theBaptism {
+  font-family: "Mukta Malar";
+  font-size: 64px;
+  font-weight: 800;
+  line-height: 100px;
+  color: rgba(22, 54, 145, 1);
+  text-align: center;
+  margin-bottom: 42.97px;
+  letter-spacing: 12.8px;
+}
+.loremIpsumDolorSitAmetConsecteturTwo {
+  height: 228px;
+  width: 609px;
+  font-family: "Mukta Malar";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 50px;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+}
+.trinity {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 64.38px 30px 6.49px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 1;
+  align-self: stretch;
+  position: relative;
+}
+.flexWrapperSix {
+  margin-bottom: 52.13px;
+  padding: 0 0 0 51.1px;
+  display: flex;
+  align-items: center;
+}
+.group19Four {
+  margin-right: 24.93px;
+  padding: 0.04px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.theTrinity {
+  font-family: "Mukta Malar";
+  font-size: 64px;
+  font-weight: 800;
+  line-height: 100px;
+  color: rgba(22, 54, 145, 1);
+  text-align: center;
+  margin-bottom: 56.96px;
+  letter-spacing: 12.8px;
+}
+.loremIpsumDolorSitAmetConsecteturThree {
+  height: 256px;
+  width: 649px;
+  font-family: "Mukta Malar";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 52px;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+}
+.image25 {
+  width: 685px;
+  height: 659px;
 }
